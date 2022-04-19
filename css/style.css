@@ -1,0 +1,98 @@
+/**body start**/
+body{ margin:0px;
+ padding:0px;}
+ /**body end**/
+ /**header start**/
+header{border-bottom:2px solid #0f26561a;
+       padding:5px 10px;
+       font-family:Arial, Helvetica, sans-serif;
+       font-size:16px;
+        font-weight:400;}
+.container {width:90%;
+            margin:0px auto;
+           overflow: hidden;}
+.logo{float:left;
+      width:9%;
+      padding-top:5px;
+      }
+.logo img{width:100%;}
+.menu{float:right;
+       width:50%;}
+.menu ul{ float: right;}
+.menu ul  li { list-style: none;
+             float: left;}
+.menu ul li a { text-decoration:none;
+              color:#133a60;
+              font-size:16px; 
+              font-weight:400;
+              padding:0 15px;
+              display:inline-block;}
+.menu ul li:last-child a { padding-right: 0;}
+/**header end**/
+ /**banner start**/ 
+ h1 {  font-size:50px;
+       font-family:Arial, Helvetica, sans-serif ;
+ }
+.banner .blue { text-align: center;
+       color:#0f2656 ;
+       margin-bottom: 0px;
+       } 
+.banner .skyblue { text-align: center;
+       color:#008aff;
+        margin-top:5px;  }
+
+.banner p {text-align: center;
+       font-family:Arial, Helvetica, sans-serif ;
+    color:#133a60;}
+.banner img {  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+/**banner end**/
+ /**about start**/
+.about {font-family:Arial, Helvetica, sans-serif ;
+ }
+  .wrapper {overflow:hidden;
+           }
+  .text{float:left;
+       width:48%;
+       margin-top:1.3%;
+       }
+ .red {font-size:50px;
+       text-align: right;
+             color:#f15767;
+       }
+.lorem {color:#133a60;
+       text-align: right;
+       line-height: 30px;
+      }
+.project {float: right;
+       width:50%;
+       font-size: 50px;
+             color:#0f2656;
+}
+
+
+/**about end**/
+ 
+/**service end**/
+.box{overflow: hidden;}
+.unleash{height:auto;
+width:29% ;
+float: left;
+display: inline-block;
+}
+.left {margin-left:75px;}
+.right{margin-right:75px;}
+/**service end**/
+/**footer start**/
+ .footer{text-align: center;
+     background-color: #008aff;
+     padding: 30px;
+ }
+.sky {font-family:Arial, Helvetica, sans-serif ;
+       color: skyblue;
+      font-size:14px;}
+.white {color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+/**footer end**/
